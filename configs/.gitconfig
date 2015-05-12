@@ -1,11 +1,11 @@
 [user]
-  email = braulio@eita.org.br
-  name = Braulio Bhavamitra
+  email = evandrojr@gmail.com
+  name = Evandro Junior
 
 [sendemail]
   smtpencryption = tls
   smtpserver = smtp.gmail.com
-  smtpuser = brauliobo@gmail.com
+  smtpuser = evandrojr@gmail.com
   smtpserverport = 587
 
 [apply]
